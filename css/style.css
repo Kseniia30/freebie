@@ -119,6 +119,8 @@ button {
     font-size: 18px;
     line-height: 39px;
     color: var(--logo-footer-color);
+    margin-left: 141px;
+    margin-right: 141px;
 }
 .footer-menu-list {
     justify-content: center;
